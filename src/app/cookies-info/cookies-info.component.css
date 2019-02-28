@@ -5,7 +5,7 @@
   font-family: initial;
   font-weight: normal;
 }
-.close-button {
+#close-button {
   display: block;
   float: right;
   cursor: pointer;
